@@ -1,0 +1,4 @@
+<keybind key="W-C-KP_7">        <action name="MoveToEdgeNorthWest"/>    </keybind>
+<keybind key="W-C-KP_9">      <action name="MoveToEdgeNorthEast"/>    </keybind>
+<keybind key="W-C-KP_1">        <action name="MoveToEdgeSouthWest"/>    </keybind>
+<keybind key="W-C-KP_3">      <action name="MoveToEdgeSouthEast"/>    </keybind>
